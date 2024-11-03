@@ -31,13 +31,19 @@ The **Garage Management System** allows users to add vehicles to a garage, manag
 
 ### Building and Running the Application
 
-1. **Clone the Repository**
-
-2. **Navigate to the Project Directory**
-
-3. **Build the Project**
-
-4. **Run the Application**
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/DanielFraenkel/Garage-System-Manager.git
+    cd garage-system-manager
+    ```
+2. Build the project:
+    ```bash
+    dotnet build
+    ```
+3. Run the game:
+    ```bash
+    dotnet run --project GarageConsoleUI
+    ```
 
 ### note
 
